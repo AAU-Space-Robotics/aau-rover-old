@@ -1,0 +1,1 @@
+FROM nvcr.io/nvidia/isaac-sim:2022.2.1
